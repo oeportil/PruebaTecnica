@@ -71,6 +71,8 @@ CREATE DATABASE ptecnica;
 --en consola desde powershell dentro de la carpeta del proyecto
 
 ```bash
+cd Backend/Prueba_tecnica
+
 dotnet restore
 ```
 
@@ -80,14 +82,14 @@ dotnet restore
 dotner run
 ```
 
-### 6 (Al ejecutar el proyecto se hace la incersión de 4 usuarios)
+### 6 (Al ejecutar el proyecto se hace la incersión de 4 usuarios, si solo si no hay registros en la BD)
 
 #### para ingresar a login son los siguientes
 
-##### telefono: 71234567, password: AnaPass123
+##### - telefono: 71234567, password: AnaPass123
 
-##### telefono: 77771111, password: LuisPass456
+##### - telefono: 77771111, password: LuisPass456
 
-##### telefono: 77770000, password: MariaPass789
+##### - telefono: 77770000, password: MariaPass789
 
-##### telefono: 77773241, password: CarlosPass321
+##### - telefono: 77773241, password: CarlosPass321
