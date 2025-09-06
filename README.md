@@ -1,6 +1,6 @@
 # Backend – Proyecto Prueba Técnica
 
-Este proyecto es el **backend** de la prueba técnica, desarrollado con **.NET 7, Dapper y PostgreSQL**.
+Este proyecto es el **backend** de la prueba técnica, desarrollado con **.NET 8, Dapper y PostgreSQL**.
 
 Incluye:
 
